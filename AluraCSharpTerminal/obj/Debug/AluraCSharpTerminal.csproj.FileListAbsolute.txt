@@ -1,0 +1,5 @@
+c:\users\administrador\documents\visual studio 2015\Projects\AluraCSharpTerminal\AluraCSharpTerminal\bin\Debug\AluraCSharpTerminal.exe.config
+c:\users\administrador\documents\visual studio 2015\Projects\AluraCSharpTerminal\AluraCSharpTerminal\bin\Debug\AluraCSharpTerminal.exe
+c:\users\administrador\documents\visual studio 2015\Projects\AluraCSharpTerminal\AluraCSharpTerminal\bin\Debug\AluraCSharpTerminal.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\AluraCSharpTerminal\AluraCSharpTerminal\obj\Debug\AluraCSharpTerminal.exe
+c:\users\administrador\documents\visual studio 2015\Projects\AluraCSharpTerminal\AluraCSharpTerminal\obj\Debug\AluraCSharpTerminal.pdb
